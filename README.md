@@ -28,6 +28,11 @@ Image Recognition in Python using OpenCV. Face Detection is done using Haar Casc
 
 Note: The Recognition is done through numerical labels. For example: 2 corresponds to Leonardo DiCaprio. Also, since the training dataset considered here is very small, the recognition can be inaccurate. Adding more training images will increase the accuracy.
 
+
+OVERVIEW OF THE PROJECT
+![WhatsApp Image 2024-12-21 at 03 58 06_4327ea59](https://github.com/user-attachments/assets/2c77029d-6c08-4e4a-b3ce-914284675065)
+
+
 Inspired from this repository.
 
 
